@@ -1,0 +1,4 @@
+voyageai
+sqlite-vec
+python-dotenv
+anthropic

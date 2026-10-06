@@ -1,0 +1,22 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Data — never commit source books, extracted text, indexes, or tags
+sources/
+library/
+*.epub
+*.pdf
+*.db
+*.db-*
+*.sqlite*
+keyword-index.json
+*-progress.json
+*-manifest.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
