@@ -46,3 +46,7 @@ Long-running jobs (`embed_library.py`) are resumable via a progress file in `lib
 
 Some docstrings refer to Claude Code subagents (`tagger`, `beat-classifier`) from the larger
 private pipeline this was extracted from; the retrieval scripts run standalone without them.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
